@@ -5,7 +5,7 @@
 <div align="center">
   <h3 align="center">Graph Degeneracy</h3>
   <p align="center">
-    <a href="https://akwd22.github.io/graph-degeneracy/">View Website</a> ·
+    <a href="https://zoreph22.github.io/graph-degeneracy/">View Website</a> ·
     <a href="https://youtu.be/mjWiRz99-f8">View Demo</a>
   </p>
 </div>
